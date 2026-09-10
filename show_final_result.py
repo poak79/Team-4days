@@ -2,7 +2,7 @@ import pygame
 import sys
 
 def show_final_result(screen, collected_stars):
-    dw_font_DGM = "C:\\Users\\park0\\OneDrive\\바탕 화면\\DungGeunMo.ttf"
+    dw_font_DGM = "DungGeunMo.ttf"
     font_size1 = 250
     font_size2 = 20
     score_font = pygame.font.Font(dw_font_DGM, font_size1)
