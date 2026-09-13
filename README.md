@@ -1,7 +1,7 @@
 # GO TO SCHOOL!
 
 <p align="center">
-  <img src="./main_lobby_screen.png" alt="GO TO SCHOOL 메인 화면" width="800">
+  <img src="./main.png" alt="GO TO SCHOOL 메인 화면" width="800">
 </p>
 
 <p align="center">
